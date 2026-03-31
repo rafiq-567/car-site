@@ -6,7 +6,7 @@ export default function Navbar() {
             <nav className='flex justify-center'>
                 <ul className='flex justify-between w-1/2'>
                     <li>Home</li>
-                    <li>Browse Cars</li>
+                    <li>Cars</li>
                     <li>Contact</li>
                 </ul>
             </nav>
