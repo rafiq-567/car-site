@@ -35,7 +35,7 @@ export default function Hero() {
             className="text-gold text-[10px] tracking-[3px] uppercase px-4 py-1.5"
             style={{ border: "0.5px solid rgba(232,201,126,0.35)" }}
           >
-            Premium Collection 2025
+            Premium Collection 2026
           </span>
         </div>
 
