@@ -25,10 +25,10 @@ export default function RootLayout({ children }) {
     >
       <body className="min-h-full flex flex-col">
       <Navbar></Navbar>
-        <main className="h-screen h-max-[600px] place-items-center place-content-center">
+        <main className="h-screen h-max-[600px]">
           {children}
         </main>
-        <footer>Car related website</footer>
+        
         </body>
     </html>
   );
