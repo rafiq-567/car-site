@@ -2,6 +2,7 @@ import Image from "next/image";
 import Hero from "./components/Hero";
 import CarListing from "./components/CarListing";
 import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 
 export default function Home() {
   return (
@@ -9,7 +10,7 @@ export default function Home() {
       <Hero />
       <CarListing />
       <Contact />
-      <h1>Hello World!</h1>
+      <Footer />
     </div>
   );
 }
